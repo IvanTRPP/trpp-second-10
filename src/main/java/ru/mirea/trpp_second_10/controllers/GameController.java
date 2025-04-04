@@ -7,6 +7,7 @@ import io.micronaut.http.annotation.Get;
 import java.io.InputStreamReader;
 import java.util.List;
 import java.util.Optional;
+import ru.mirea.trpp_second_10.entity.Game;
 
 /** Контроллер для работы с играми. */
 @Controller("/game")
